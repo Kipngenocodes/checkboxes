@@ -25,4 +25,4 @@ my_button.pack()
 
 root.mainloop()
 
-# can be applied in where a person s required to take text to ascertain qualification
+# can be applied in where a person is required to take text to ascertain qualification
